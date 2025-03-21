@@ -37,7 +37,7 @@ By analyzing the collected data, we aim to identify trends, evaluate sensor accu
 
 ## Environmental Sensor Readings from Mars Rover Prototype
 
-|🔗 [Link to data](data/data_3hrs.csv) |
+|🔗 [Link to data](https://github.com/multiverseweb/mars_rover/blob/main/data/data_3hrs.csv) |
 |-|
 
 ### What the Data Shows
