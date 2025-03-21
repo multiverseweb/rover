@@ -71,5 +71,5 @@ This dataset contains `5,400` timestamped temperature and humidity readings coll
 
 ## License
 
-This project is open-source under the [MIT License](LICENSE).
+This project is open-source under the [CC BY 4.0](https://github.com/multiverseweb/mars_rover/blob/main/LICENSE.md).
 
