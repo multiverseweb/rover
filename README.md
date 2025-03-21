@@ -2,6 +2,15 @@
 
 The Mars Rover Navigation Optimization System is a project by **[Tejas Gupta](https://github.com/multiverseweb)** and **[Ojas Gupta](https://github.com/ojas-git)** developed under the guidance of **Prof. Bindu Garg**, HOD, CSE & CSBS, Bharati Vidyapeeth University, College of Engineering, Pune. It is a scaled-down prototype designed to explore real-time environmental monitoring and data-driven decision-making. The project focuses on collecting temperature and humidity readings to analyze climate conditions and detect anomalies that could impact autonomous navigation.
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=multiverseweb2%2mars_rover%20&countColor=%23263759&style=flat&initial=5767)
+  ![License](https://img.shields.io/badge/License-MIT-4e3eb5)
+  ![Languages](https://img.shields.io/github/languages/count/multiverseweb/mars_rover?color=20B2AA)
+  ![GitHub contributors](https://img.shields.io/github/contributors/multiverseweb/mars_rover)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/multiverseweb/mars_rover)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/multiverseweb/mars_rover)
+  ![GitHub total lines](https://sloc.xyz/github/multiverseweb/mars_rover)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/multiverseweb/mars_rover)
+
 ## Research Hypothesis
 A scaled-down Mars Rover prototype can effectively collect temperature and humidity data, demonstrating how real-time environmental monitoring can be used for autonomous navigation, climate analysis, and anomaly detection.  
 
