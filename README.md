@@ -32,7 +32,7 @@ By analyzing the collected data, we aim to identify trends, evaluate sensor accu
 |-|
 
 ### What the Data Shows
-This dataset contains timestamped temperature and humidity readings collected at regular time intervals by the rover’s onboard DHT22 sensor. The data highlights:
+This dataset contains `5,400` timestamped temperature and humidity readings collected over a period of `3` hours and logged every `2` seconds by the rover’s onboard DHT22 sensor. The data highlights:
 - Gradual fluctuations in environmental conditions.
 - Notable temperature spikes ``(~10°C)`` introduced using a lighter to test sensor response.
 - Stable humidity levels with minor deviations due to air circulation or sensor drift.
