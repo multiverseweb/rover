@@ -37,8 +37,8 @@ By analyzing the collected data, we aim to identify trends, evaluate sensor accu
 
 ## Environmental Sensor Readings from Mars Rover Prototype
 
-|🔗 [Link to data](https://github.com/multiverseweb/mars_rover/blob/main/data/data_3hrs.csv) |
-|-|
+|🔗 Dataset |<a href="https://github.com/multiverseweb/mars_rover/blob/main/data/data_3hrs.csv"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white"></a> | <a href="https://www.kaggle.com/datasets/tejasgupta7/sensor-based-data-temperature-and-humidity"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=Kaggle&logoColor=white"></a> | <a href="https://data.mendeley.com/datasets/pdsjz2wjw7/1"><img src="https://img.shields.io/badge/Mendeley-9D1620.svg?style=flat&logo=Mendeley&logoColor=white"></a> |
+|-|-|-|-|
 
 ### What the Data Shows
 This dataset contains `5,400` timestamped temperature and humidity readings collected over a period of `3` hours and logged every `2` seconds by the rover’s onboard DHT22 sensor. The data highlights:
