@@ -37,7 +37,7 @@ By analyzing the collected data, we aim to identify trends, evaluate sensor accu
 
 ## Circuit
 
-| ![](images/rover.png) |
+| ![](https://github.com/multiverseweb/mars_rover/blob/main/images/rover.png?raw=true) |
 |-|
 
 ## Environmental Sensor Readings from Mars Rover Prototype
