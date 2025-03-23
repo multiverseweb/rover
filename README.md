@@ -35,6 +35,11 @@ By analyzing the collected data, we aim to identify trends, evaluate sensor accu
 | Display | OLED Display (0.96" or 1.3", SSD1306/SH1106, I2C/SPI) |
 | Data Handling | Data will be transmitted and analyzed using ThingSpeak. The Arduino API will be used for interfacing and control. |
 
+## Circuit
+
+| ![](images/rover.png) |
+|-|
+
 ## Environmental Sensor Readings from Mars Rover Prototype
 
 ### 🔗 Dataset 
