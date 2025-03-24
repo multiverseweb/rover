@@ -1,6 +1,6 @@
 # Mars Rover Navigation Optimization System (MRNOS) 🛰
 
-The Mars Rover Navigation Optimization System is a project by **[Tejas Gupta](https://github.com/multiverseweb)** , **[Ojas Gupta](https://github.com/ojas-git)**, **Bhavya Jain** and **Dev Jain** developed under the guidance of **`Prof. Bindu Garg`**, HOD, CSE & CSBS, Bharati Vidyapeeth University, College of Engineering, Pune. It is a scaled-down prototype designed to explore real-time environmental monitoring and data-driven decision-making. The project focuses on collecting temperature and humidity readings to analyze climate conditions and detect anomalies that could impact autonomous navigation.
+The Mars Rover Navigation Optimization System is a project by **[Tejas Gupta](https://github.com/multiverseweb)** , **[Ojas Gupta](https://github.com/ojas-git)**, Bhavya Jain and Dev Jain developed under the guidance of **`Prof. Bindu Garg`**, HOD, CSE & CSBS, Bharati Vidyapeeth University, College of Engineering, Pune. It is a scaled-down prototype designed to explore real-time environmental monitoring and data-driven decision-making. The project focuses on collecting temperature and humidity readings to analyze climate conditions and detect anomalies that could impact autonomous navigation.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=multiverseweb2%2mars_rover%20&countColor=%23263759&style=flat&initial=5767)
   ![License](https://img.shields.io/badge/License-CC%20BY%204.0-4e3eb5)
@@ -35,10 +35,16 @@ By analyzing the collected data, we aim to identify trends, evaluate sensor accu
 | Display | OLED Display (0.96" or 1.3", SSD1306/SH1106, I2C/SPI) |
 | Data Handling | Data will be transmitted and analyzed using ThingSpeak. The Arduino API will be used for interfacing and control. |
 
+## Circuit
+
+| ![](https://github.com/multiverseweb/mars_rover/blob/main/images/rover.png?raw=true) |
+|-|
+
 ## Environmental Sensor Readings from Mars Rover Prototype
 
-|🔗 Dataset |<a href="https://github.com/multiverseweb/mars_rover/blob/main/data/data_3hrs.csv"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white"></a> | <a href="https://www.kaggle.com/datasets/tejasgupta7/sensor-based-data-temperature-and-humidity"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=Kaggle&logoColor=white"></a> | <a href="https://data.mendeley.com/datasets/pdsjz2wjw7/1"><img src="https://img.shields.io/badge/Mendeley-9D1620.svg?style=flat&logo=Mendeley&logoColor=white"></a> |
-|-|-|-|-|
+### 🔗 Dataset 
+|<a href="https://github.com/multiverseweb/mars_rover/blob/main/data/data_3hrs.csv"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white"></a> | <a href="https://www.kaggle.com/datasets/tejasgupta7/sensor-based-data-temperature-and-humidity"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=Kaggle&logoColor=white"></a> | <a href="https://data.mendeley.com/datasets/pdsjz2wjw7/1"><img src="https://img.shields.io/badge/Mendeley-9D1620.svg?style=flat&logo=Mendeley&logoColor=white"></a> |
+|-|-|-|
 
 ### What the Data Shows
 This dataset contains `5,400` timestamped temperature and humidity readings collected over a period of `3` hours and logged every `2` seconds by the rover’s onboard DHT22 sensor. The data highlights:
