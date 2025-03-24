@@ -63,9 +63,12 @@ This dataset contains `5,400` timestamped temperature and humidity readings coll
 - **Controlled Testing:** Heat spikes added using a lighter to simulate external interference.
 - **Data Transmission:** Logged in real-time via wireless communication to a laptop.
 
-### Data vIsualised on Thingspeak
+### Data Visualised on Thingspeak
 
 | ![](https://github.com/multiverseweb/mars_rover/blob/main/images/thingspeak.png?raw=true) |
+|-|
+
+| [View Live](https://thingspeak.mathworks.com/channels/2890599) |
 |-|
 
 ### How to Interpret and Use the Data
