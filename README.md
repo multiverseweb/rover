@@ -65,7 +65,7 @@ This dataset contains `5,400` timestamped temperature and humidity readings coll
 
 ### Data vIsualised on Thingspeak
 
-| ![](images/thingspeak.png) |
+| ![](https://github.com/multiverseweb/mars_rover/blob/main/images/thingspeak.png?raw=true) |
 |-|
 
 ### How to Interpret and Use the Data
