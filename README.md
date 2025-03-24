@@ -63,11 +63,19 @@ This dataset contains `5,400` timestamped temperature and humidity readings coll
 - **Controlled Testing:** Heat spikes added using a lighter to simulate external interference.
 - **Data Transmission:** Logged in real-time via wireless communication to a laptop.
 
+### Data vIsualised on Thingspeak
+
+| ![](images/thingspeak.png) |
+|-|
+
 ### How to Interpret and Use the Data
 - **Identify Trends:** Observe temperature and humidity variations over time.
 - **Detect Anomalies:** Locate sharp temperature spikes (`~10°C` increases) caused by external heating.
 - **Compare Sensor Performance:** Evaluate how quickly temperature normalizes after a spike.
 - **Develop Predictive Models:** Train machine learning models to predict environmental changes.
+
+| View [code/data_analysis.ipynb](code/data_analysis.ipynb) for more |
+|-|
 
 ### Potential Applications
 - **Autonomous Environment Monitoring:** Detecting and responding to environmental anomalies.
