@@ -40,6 +40,11 @@ By analyzing the collected data, we aim to identify trends, evaluate sensor accu
 | ![](https://github.com/multiverseweb/mars_rover/blob/main/images/rover.png?raw=true) |
 |-|
 
+## Project Snapshots
+
+| ![](https://github.com/multiverseweb/mars_rover/blob/main/images/breadBoard.jpg?raw=true) |
+|-|
+
 ## Environmental Sensor Readings from Mars Rover Prototype
 
 ### 🔗 Dataset 
