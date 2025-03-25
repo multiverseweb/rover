@@ -11,6 +11,7 @@ The Mars Rover Navigation Optimization System is a project by **[Tejas Gupta](ht
   ![GitHub total lines](https://sloc.xyz/github/multiverseweb/mars_rover)
   ![GitHub Repo stars](https://img.shields.io/github/stars/multiverseweb/mars_rover)
 
+#### Table of Contents
 | [Research Hypothesis](#research-hypothesis) | [Objective](#objective) | [Components](#components) | [Circuit](#circuit) | [Snapshots](#project-snapshots) | [Dataset](#dataset) | [Thingspeak](#data-visualised-on-thingspeak) | [License](#license) |
 |-|-|-|-|-|-|-|-|
 
