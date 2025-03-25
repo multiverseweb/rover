@@ -11,6 +11,9 @@ The Mars Rover Navigation Optimization System is a project by **[Tejas Gupta](ht
   ![GitHub total lines](https://sloc.xyz/github/multiverseweb/mars_rover)
   ![GitHub Repo stars](https://img.shields.io/github/stars/multiverseweb/mars_rover)
 
+| [Research Hypothesis](#research-hypothesis) | [Objective](#objective) | [Components](#components) | [Circuit](#circuit) | [Snapshots](#project-snapshots) | [Dataset](#dataset) | [Thingspeak](#data-visualised-on-thingspeak) | [License](#license) |
+|-|-|-|-|-|-|-|-|
+
 ## Research Hypothesis
 A scaled-down Mars Rover prototype can effectively collect temperature and humidity data, demonstrating how real-time environmental monitoring can be used for autonomous navigation, climate analysis, and anomaly detection.  
 
@@ -47,7 +50,7 @@ By analyzing the collected data, we aim to identify trends, evaluate sensor accu
 
 ## Environmental Sensor Readings from Mars Rover Prototype
 
-### 🔗 Dataset 
+## Dataset
 |<a href="https://github.com/multiverseweb/mars_rover/blob/main/data/data_3hrs.csv"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white"></a> | <a href="https://www.kaggle.com/datasets/tejasgupta7/sensor-based-data-temperature-and-humidity"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=Kaggle&logoColor=white"></a> | <a href="https://data.mendeley.com/datasets/pdsjz2wjw7/1"><img src="https://img.shields.io/badge/Mendeley-9D1620.svg?style=flat&logo=Mendeley&logoColor=white"></a> |
 |-|-|-|
 
