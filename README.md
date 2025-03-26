@@ -12,7 +12,7 @@ The Mars Rover Navigation Optimization System is a project by **[Tejas Gupta](ht
   ![GitHub Repo stars](https://img.shields.io/github/stars/multiverseweb/mars_rover)
 
 #### Table of Contents
-| [Research Hypothesis](#research-hypothesis) | [Objective](#objective) | [Components](#components) | [Circuit](#circuit) | [Snapshots](#project-snapshots) | [Dataset](#dataset) | [Thingspeak](#data-visualised-on-thingspeak) | [License](#license) |
+| [Research Hypothesis](#research-hypothesis) | [Objective](#objective) | [Components](#components) | [Circuit](#circuit) | [Snapshots](#project-snapshots) | [Dataset](#dataset) | [ThingSpeak](#data-visualised-on-thingspeak) | [License](#license) |
 |-|-|-|-|-|-|-|-|
 
 ## Research Hypothesis
@@ -72,7 +72,7 @@ This dataset contains `5,400` timestamped temperature and humidity readings coll
 - **Controlled Testing:** Heat spikes added using a lighter to simulate external interference.
 - **Data Transmission:** Logged in real-time via wireless communication to a laptop.
 
-### Data Visualised on Thingspeak
+### Data Visualised on ThingSpeak
 
 | ![](https://github.com/multiverseweb/mars_rover/blob/main/images/thingspeak.png?raw=true) |
 |-|
