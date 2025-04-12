@@ -1,6 +1,6 @@
 # Mars Rover Navigation Optimization System (MRNOS) 🛰
 
-The Mars Rover Navigation Optimization System is a project by **[Tejas Gupta](https://github.com/multiverseweb)** , **[Ojas Gupta](https://github.com/ojas-git)**, Bhavya Jain and Dev Jain developed under the guidance of **`Prof. Bindu Garg`**, HOD, CSE & CSBS, Bharati Vidyapeeth University, College of Engineering, Pune. It is a scaled-down prototype designed to explore real-time environmental monitoring and data-driven decision-making. The project focuses on collecting temperature and humidity readings to analyze climate conditions and detect anomalies that could impact autonomous navigation.
+The Mars Rover Navigation Optimization System is a project by **[Tejas Gupta](https://github.com/multiverseweb)** and **[Ojas Gupta](https://github.com/ojas-git)** developed under the guidance of **`Prof. Bindu Garg`**, HOD, CSE & CSBS, Bharati Vidyapeeth University, College of Engineering, Pune. It is a scaled-down prototype designed to explore real-time environmental monitoring and data-driven decision-making. The project focuses on collecting temperature and humidity readings to analyze climate conditions and detect anomalies that could impact autonomous navigation.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=multiverseweb2%2mars_rover%20&countColor=%23263759&style=flat&initial=5767)
   ![License](https://img.shields.io/badge/License-CC%20BY%204.0-4e3eb5)
