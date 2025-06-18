@@ -1,22 +1,22 @@
-# Mars Rover Navigation Optimization System (MRNOS) 🛰
+# Rover Navigation Optimization System (R-NOS) 🛰
 
-The Mars Rover Navigation Optimization System is a project by **[Tejas Gupta](https://github.com/multiverseweb)** and **[Ojas Gupta](https://github.com/ojas-git)** developed under the guidance of **`Prof. Bindu Garg`**, HOD, CSE & CSBS, Bharati Vidyapeeth University, College of Engineering, Pune. It is a scaled-down prototype designed to explore real-time environmental monitoring and data-driven decision-making. The project focuses on collecting temperature and humidity readings to analyze climate conditions and detect anomalies that could impact autonomous navigation.
+The Rover Navigation Optimization System is a project by **[Tejas Gupta](https://github.com/multiverseweb)** and **[Ojas Gupta](https://github.com/ojas-git)** developed under the guidance of **`Prof. Bindu Garg`**, HOD, CSE & CSBS, Bharati Vidyapeeth University, College of Engineering, Pune. It is a scaled-down prototype designed to explore real-time environmental monitoring and data-driven decision-making. The project focuses on collecting temperature and humidity readings to analyze climate conditions and detect anomalies that could impact autonomous navigation.
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=multiverseweb2%2mars_rover%20&countColor=%23263759&style=flat&initial=5767)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=multiverseweb2%2rover%20&countColor=%23263759&style=flat&initial=5767)
   ![License](https://img.shields.io/badge/License-CC%20BY%204.0-4e3eb5)
-  ![Languages](https://img.shields.io/github/languages/count/multiverseweb/mars_rover?color=20B2AA)
-  ![GitHub contributors](https://img.shields.io/github/contributors/multiverseweb/mars_rover)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/multiverseweb/mars_rover)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/multiverseweb/mars_rover)
-  ![GitHub total lines](https://sloc.xyz/github/multiverseweb/mars_rover)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/multiverseweb/mars_rover)
+  ![Languages](https://img.shields.io/github/languages/count/multiverseweb/rover?color=20B2AA)
+  ![GitHub contributors](https://img.shields.io/github/contributors/multiverseweb/rover)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/multiverseweb/rover)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/multiverseweb/rover)
+  ![GitHub total lines](https://sloc.xyz/github/multiverseweb/rover)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/multiverseweb/rover)
 
 #### Table of Contents
 | [Research Hypothesis](#research-hypothesis) | [Objective](#objective) | [Components](#components) | [Circuit](#circuit) | [Snapshots](#project-snapshots) | [Dataset](#dataset) | [ThingSpeak](#data-visualised-on-thingspeak) | [License](#license) |
 |-|-|-|-|-|-|-|-|
 
 ## Research Hypothesis
-A scaled-down Mars Rover prototype can effectively collect temperature and humidity data, demonstrating how real-time environmental monitoring can be used for autonomous navigation, climate analysis, and anomaly detection.  
+A scaled-down Rover prototype can effectively collect temperature and humidity data, demonstrating how real-time environmental monitoring can be used for autonomous navigation, climate analysis, and anomaly detection.  
 
 By analyzing the collected data, we aim to identify trends, evaluate sensor accuracy, and explore potential improvements in robotic exploration. This includes assessing response time, consistency, and anomalies caused by external factors like human interference or sudden environmental changes.  
 
@@ -41,18 +41,18 @@ By analyzing the collected data, we aim to identify trends, evaluate sensor accu
 
 ## Circuit
 
-| ![](https://github.com/multiverseweb/mars_rover/blob/main/images/rover.png?raw=true) |
+| ![](https://github.com/multiverseweb/rover/blob/main/images/rover.png?raw=true) |
 |-|
 
 ## Project Snapshots
 
-| ![](https://github.com/multiverseweb/mars_rover/blob/main/images/breadBoard.jpg?raw=true) |
+| ![](https://github.com/multiverseweb/rover/blob/main/images/breadBoard.jpg?raw=true) |
 |-|
 
-## Environmental Sensor Readings from Mars Rover Prototype
+## Environmental Sensor Readings from Rover Prototype
 
 ## Dataset
-|<a href="https://github.com/multiverseweb/mars_rover/blob/main/data/data_3hrs.csv"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white"></a> | <a href="https://www.kaggle.com/datasets/tejasgupta7/sensor-based-data-temperature-and-humidity"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=Kaggle&logoColor=white"></a> | <a href="https://data.mendeley.com/datasets/pdsjz2wjw7/1"><img src="https://img.shields.io/badge/Mendeley-9D1620.svg?style=flat&logo=Mendeley&logoColor=white"></a> |
+|<a href="https://github.com/multiverseweb/rover/blob/main/data/data_3hrs.csv"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white"></a> | <a href="https://www.kaggle.com/datasets/tejasgupta7/sensor-based-data-temperature-and-humidity"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=Kaggle&logoColor=white"></a> | <a href="https://data.mendeley.com/datasets/pdsjz2wjw7/1"><img src="https://img.shields.io/badge/Mendeley-9D1620.svg?style=flat&logo=Mendeley&logoColor=white"></a> |
 |-|-|-|
 
 ### What the Data Shows
@@ -74,7 +74,7 @@ This dataset contains `5,400` timestamped temperature and humidity readings coll
 
 ### Data Visualised on ThingSpeak
 
-| ![](https://github.com/multiverseweb/mars_rover/blob/main/images/thingspeak.png?raw=true) |
+| ![](https://github.com/multiverseweb/rover/blob/main/images/thingspeak.png?raw=true) |
 |-|
 
 | [View Live](https://thingspeak.mathworks.com/channels/2890599) |
@@ -97,4 +97,4 @@ This dataset contains `5,400` timestamped temperature and humidity readings coll
 
 ## License
 
-This project is open-source under the [CC BY 4.0](https://github.com/multiverseweb/mars_rover/blob/main/LICENSE.md).
+This project is open-source under the [CC BY 4.0](https://github.com/multiverseweb/rover/blob/main/LICENSE.md).
